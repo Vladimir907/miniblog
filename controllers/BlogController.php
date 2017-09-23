@@ -42,7 +42,7 @@ class BlogController extends \yii\web\Controller
     public function actionDelete($id)
     {
         $model = $this->findModel($id);
-        unlink(Yii::$app->basePath.'/web'.$model->img);
+        unlink(Yii::$app->basePath.$model->img);
         $model->delete();
         return $this->redirect(['site/myblog']);
     }
