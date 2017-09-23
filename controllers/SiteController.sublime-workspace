@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ite",
+				"item"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"author",
+				"author_comment"
+			],
+			[
+				"U",
+				"Url"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"w",
+				"web"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"img",
+				"img_height"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"exte",
+				"extension_loaded"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"fu",
+				"fun\tfunction …"
+			],
+			[
+				"f",
+				"fun\tfunction …"
+			],
+			[
+				"us",
+				"use"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"Y",
+				"Y-m-d"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"p",
+				"post"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"M",
+				"Merriweather"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"PRI",
+				"print_r"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"show",
+				"show_id"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bo",
+				"box-sizing"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"Ari",
+				"Arial"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"b",
+				"background-size"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/layouts/main.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/css/style.css",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/assets/AppAsset.php",
+		"/E/шаблон блога/templatemo_244_tripod/contact.html",
+		"/E/шаблон блога/9-sbornik-22-luchshix-form-vxoda/index.html",
+		"/E/шаблон блога/templatemo_244_tripod/index.html",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/index.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/controllers/BlogController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/index.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/AuthController.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/main.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/admin.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/Post.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/controllers/CommentController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/_form.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/.htaccess",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/.htaccess",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/Post.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/db.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/comment/_form.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/controllers/SiteController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/myblog.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/Comment.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/comment/create.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/migrations/m170919_175453_create_tbl_post.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/migrations/m170919_181756_create_tbl_comment.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/comment/update.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/comment/view.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/controllers/CommentController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/controllers/PostController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/Module.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/_form.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/create.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/update.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/params.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/web.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/console.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/auth/signup.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/auth/login.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/controllers/AuthController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/view.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/views/post/index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/js/script.js",
+		"/C/OpenServer/OpenServer/domains/local.interdesign.com.ua/www/app_default/project/cont.js",
+		"/C/OpenServer/OpenServer/domains/local.interdesign.com.ua/www/app_default/script.js",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/js/piroBox.1_2.js",
+		"/E/treasure-blog-master/treasure-blog-master/controllers/AuthController.php",
+		"/E/treasure-blog-master/treasure-blog-master/models/LoginForm.php",
+		"/E/treasure-blog-master/treasure-blog-master/models/SignupForm.php",
+		"/E/treasure-blog-master/treasure-blog-master/models/User.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/SignupForm.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/LoginForm.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/User.php",
+		"/C/OpenServer/OpenServer/domains/local.interdesign.com.ua/www/framework/php/class.image.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/css/login.css",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/auth/login__.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/auth/login_.php",
+		"/C/OpenServer/OpenServer/domains/local.interdesign.com.ua/www/app_default/style.css",
+		"/C/OpenServer/OpenServer/domains/local.interdesign.com.ua/www/app_default/view_index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/views/post/_form.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/views/post/create.php",
+		"/E/Test-master/Test-master/models/Book.php",
+		"/E/treasure-blog-master/treasure-blog-master/views/site/index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/site/contact.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/layouts/main_.php",
+		"/E/treasure-blog-master/treasure-blog-master/views/layouts/main.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/modules/admin/controllers/DefaultController.php",
+		"/E/treasure-blog-master/treasure-blog-master/modules/admin/views/default/index.php",
+		"/E/treasure-blog-master/treasure-blog-master/modules/admin/Module.php",
+		"/E/treasure-blog-master/treasure-blog-master/views/layouts/admin.php",
+		"/E/treasure-blog-master/treasure-blog-master/views/partials/sidebar.php",
+		"/E/treasure-blog-master/treasure-blog-master/web/index.php",
+		"/E/treasure-blog-master/treasure-blog-master/views/auth/signup.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/SingupForm.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/auth/singup.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/migrations/m170919_171509_create_tbl_user.php",
+		"/E/treasure-blog-master/treasure-blog-master/migrations/m170124_021553_create_article_table.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/db.php",
+		"/E/treasure-blog-master/treasure-blog-master/migrations/m170124_021613_create_user_table.php",
+		"/C/OpenServer/OpenServer/domains/m170919_171509_create_tbl_user.php",
+		"/C/OpenServer/OpenServer/domains/m170919_175453_create_tbl_post.php",
+		"/C/OpenServer/OpenServer/domains/m170919_181756_create_tbl_comment.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/TblUser.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/TblPost.php",
+		"/E/treasure-blog-master/treasure-blog-master/controllers/SiteController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/create.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/css/my_style.css",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/myself.php",
+		"/E/Test-master/Test-master/controllers/SiteController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/index_.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/TblPostSearch.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/models/ContactForm.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/css/my_style",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/web/User.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/web/Application.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/views/blog/view.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/widgets/Breadcrumbs.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/base/Controller.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/Yii.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/yiisoft/yii2/BaseYii.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/test_db.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/config/test.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/vendor/autoload.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/commands/HelloController.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/index-test.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/app/views/blog/index.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/mail/layouts/html.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/migrations/m170919_175453_create_tbl_blog.php",
+		"/C/OpenServer/OpenServer/domains/local.blog.com.ua/www/web/.htaccass",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/eshop/model.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/eshop/cont.css",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/config.inc.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/config_site.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/eshop/cont.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/cfg.php",
+		"/C/Users/Mr.Carter/AppData/Local/Temp/fz3temp-1/view_index.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/workshop/application.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/workshop/model.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/workshop/db.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/models/catalog.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/eshop/view_list.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/eshop/view_short.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/main/view_home.php",
+		"/C/OpenServer/OpenServer/domains/local.shpilka.com.ua/www/app_default/main/model.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";}",
+			"$data['param']",
+			"$data['spec']",
+			"getSpecHtml",
+			"makeTextShort",
+			"position",
+			";}",
+			"250px",
+			"0px",
+			"();\n",
+			"Drop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.367331288343,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SiteController.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
